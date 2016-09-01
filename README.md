@@ -10,3 +10,4 @@ Slides and additional resources for the talk "How to convince your manager to go
 
 ### Recordings
 * [OSCON 2016 in Austin, Texas by Christian Grail](https://www.safaribooksonline.com/library/view/oscon-2016-video/9781491965153/part177.html)
+* [ForwardJS 2016 in San Francisco, California](https://forwardcourses.com/lectures/140)
